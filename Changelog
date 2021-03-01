@@ -1,0 +1,127 @@
+--- Source by Razzer: https://xtremecheats.gg/u/Razzer ---
+--- Cheat heavily updated by me: https://corsair.wtf/profile/143088-btc/ ---
+
+08.02 log - V0.1:
+- Removed all useless features
+- Readded skeleton esp
+- Removed Visible only due crashing (can be fixed easily)
+- Added "movement info" {replacing angel_lines member}
+- Remade healthbar & armourbar
+- Improved cheat stability 
+- Added "materials.h & virtualmethod.h & platform.h" for people who want different type of chams e.x: TV, flashing materialized chams
+
+09.02 log - V0.2:
+- Added "fps booster" section in config tab
+- Added "unload" button into config section
+- Moved "optimize" into fps booster section
+- Added "Movement" section in misc tab
+
+
+10.02 log - V0.3:
+- Improved menu & colors
+- Relocated features in config tab
+- Added "interfaces.h" 
+- Added "Disable post-processing" [turned on as default]
+
+
+11.02 log - V0.4:
+- Added fully working viewmodel_fov, x,y,z
+-viewmodel_fov "68.000000"
+-viewmodel_offset_x "0.500000"					
+-viewmodel_offset_y "0.500000"
+-viewmodel_offset_z "-0.500000"
+(if you wanna get fully working viewmodel changer you need to change your viewmodel offsets to values above)
+- Fixed crosshair (now it draws your current crosshair when using snipers)
+- Remapped visuals tab
+- Added "filter" feature into visuals
+- Improved menu (new fonts), removed titlebar
+
+12.02 log - V0.5:
+- added chams flat & ignore-z
+- Added ambient_light colors (R,G,B)
+- Added "g_Options.other.no_sleevess & g_Options.other.no_weaponss", and code for them, but it's not working quite right. (Fixing needed)
+- Added "no hands" feature
+- Reworked menu (changed frame rounding & button rounding)
+- Auto accept should be fixed
+- Remade "anti-untrusted" feature so it's always on [removed "anti-untrusted" feature]
+- Added No smoke & flash
+- Added No smoke renderoverlay
+- Improved Begincombo area spacing
+- Added const for different starfers (coming soon)
+- Readded chat spam which only breaks chat when enabled
+- Removed "opposite hand knife" feature 
+- Renamed "crossahair" feature to "Sniper crosshair" - Custom crosshair & Spread crosshair coming soon
+
+*** First day of testing on vac secured matchmaking:
+- Chams isn't working on different models
+- Chams isn't rendering far models
+- Enabled feature resets after loading different config
+update 13.02:
+- First got overwatch banned, after that got vac banned. (most likely because detected injector)
+
+
+20.02 log - v0.6:
+- Remade menu colors
+- Remapped functions
+- Remapped features & cleaned the menu 
+
+21.02 log - v0.7:
+- Improved movement info velocity color from 255, 255, 255, 255 into 111, 255, 0, 200
+- Added matching colors into tab icons
+- Removed unnecessary features from fps boost section
+- Added "colors" tab and removed colors from visuals tab
+- Changed ondrawexecution2 into only 1
+- Fixed chams not rendering new agent skins
+- Fixed chams not rendering if agent skin has patch applied into. 
+- Remade spectators list. Changed colors to match with the menu and added NoTitleBar 
+
+22.02 log - v0.8:
+- Readded & fixed Anti-Screenshot
+
+23.02 log v0.9:
+- Added Watermark (shows build date, fps and ping of the localplayer)
+- Improved "fps boost" section with new {BeginPopupContextItem} item.
+- Added "No Grass" Feature into "fps boost" section
+- Added "No Shadows" Feature into "fps boost" section
+- Added "No 3D Sky" Feature into "fps boost" section
+- Moved "Remove Post-Processing" feature into "fps boost" section
+- Improved cheat stability 
+- Improved Colors tab with childbg
+- Improved menu colors (sliderscalar  & checkmark color)
+- Fixed menu showing 5% of the colors tab on the windowrounding
+
+24.02 log - v1.0:
+- Added custom crosshair
+- Added Crosshair colors
+- Added Skeleton colors
+- Added "radio spammer"
+- Added fps counter into menu section
+- Added version counter into menu section
+- Remappped section positions and normalized color tab size to match other tab section sizes 
+- Added more colors
+- Readded "arms, sleeves, weapons" chams
+- Fixed normal crosshair not showing after disabling custom crosshair
+- Removed glow esp
+
+26.02 log - v1.1:
+- Added more movement features
+- Remade autostarfer so now it works only when binded.
+- Added slidewalk
+- Added & improved legit resolver (resolves legit antiaim)
+- Fixed thirdperson keybind
+- Added BeginPopupContextItem for crosshairs (more crosshair features coming soon)
+- Added font for "movement info"
+
+
+27.02 log - v1.2
+- Added Nightmode value / amount
+- Added more functions
+
+
+02.03 log - v1.3 
+- Fixed most of the crashes
+- Added anti-leak for future
+- Remapped Colors next to their features
+- Added info tab (more coming soon)
+
+
